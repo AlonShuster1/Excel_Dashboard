@@ -6,8 +6,6 @@
 I built this Excel dashboard to turn raw data into something clear and easy to understand.
 It lets you:
 
-1.Explore the data with filters and slicers
-2.See key numbers at a glance
-3.Spot trends with charts and visuals
+Explore the data with filters and slicers, see key numbers at a glance and spot trends with charts and visuals.
 
 
